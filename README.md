@@ -1,5 +1,7 @@
 # Predictive Medical Test Outcome Classifier 🧪
 
+![Project Banner](https://raw.githubusercontent.com/medlabtech2013/ml-labtest-classifier/main/path-to-your-image.png)
+
 This project builds a machine learning model that predicts whether a patient's lab test result is **Normal** or **Abnormal** using features like age, gender, glucose, and cholesterol levels.
 
 ---
